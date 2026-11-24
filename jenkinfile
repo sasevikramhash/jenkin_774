@@ -6,7 +6,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build_pipeline'
+                echo 'Pipeline_Build_Successfully'
             }
         }
 
